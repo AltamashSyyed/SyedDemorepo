@@ -1,0 +1,9 @@
+{
+	"name": "ADFsyeddemo",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fde79ee7-f83f-4044-905d-d30b3c3c3c84",
+		"tenantId": "6bc63fac-e155-462e-90a9-f6b22616d6c6"
+	}
+}
